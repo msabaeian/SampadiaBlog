@@ -21,7 +21,6 @@ Uses package
 - [React Native HTMLView](https://github.com/jsdf/react-native-htmlview)
 - [Timeago](https://github.com/TylerLH/react-native-timeago)
 
-----------
 
  Contributions
 -------------
