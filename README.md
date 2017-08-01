@@ -3,6 +3,12 @@ Sampadia Blog Reader!
 
 Just a **simple** blog reader for [Sampadia blog](http://sampadia.com/blog) using [Wordpress REST API](https://developer.wordpress.org/rest-api/)
 
+![Loading Page](https://raw.githubusercontent.com/msabaeian/SampadiaBlog/master/screenshots/Loading.png "Loading Page")
+
+![Loading Page](https://raw.githubusercontent.com/msabaeian/SampadiaBlog/master/screenshots/Main.PNG"Loading Page")
+
+![Loading Page](https://raw.githubusercontent.com/msabaeian/SampadiaBlog/master/screenshots/Post.png"Loading Page")
+
 ----------
 
 
@@ -28,13 +34,14 @@ this is a very simple project and needs everybody to help and **improve** it
  TODO
 -------------
 
-- [] infinite scroll for older posts
-- [] show author name and he's avatar
-- [] read and submit comments
+- [ ] infinite scroll for older posts
+- [ ] show author name and he's avatar
+- [ ] read and submit comments
 - [ ] ... lots of options
 
 > **Note**:This is only a list of suggestion that can be done by you to make the project better and more advanced 
 > مستحبه:)
+
 
 
 
