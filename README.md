@@ -5,9 +5,9 @@ Just a **simple** blog reader for [Sampadia blog](http://sampadia.com/blog) usin
 
 ![Loading Page](https://raw.githubusercontent.com/msabaeian/SampadiaBlog/master/screenshots/Loading.png "Loading Page")
 
-![Loading Page](https://raw.githubusercontent.com/msabaeian/SampadiaBlog/master/screenshots/Main.PNG"Loading Page")
+![Main Page](https://raw.githubusercontent.com/msabaeian/SampadiaBlog/master/screenshots/Main.PNG "Main Page")
 
-![Loading Page](https://raw.githubusercontent.com/msabaeian/SampadiaBlog/master/screenshots/Post.png"Loading Page")
+![Show post page](https://raw.githubusercontent.com/msabaeian/SampadiaBlog/master/screenshots/Post.png "Show post page")
 
 ----------
 
